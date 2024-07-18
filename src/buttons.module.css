@@ -1,0 +1,9 @@
+.buttons{
+    height: 4rem; 
+     width: 5rem;
+       border-radius: 5px; 
+         font-size: 2rem; 
+          font-weight: bolder;
+          margin: 0.8rem; 
+           margin-left: 2rem; 
+}

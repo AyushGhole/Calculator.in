@@ -1,0 +1,14 @@
+.head{
+  font-size: 3rem; 
+    margin: 2rem  0 0 5rem;
+}
+.container{
+   border: 2px solid grey; 
+      border-radius: 5px ;  
+       width: 70vmin; 
+         display: inline-block; 
+          text-align: center;  
+           flex-wrap: wrap;
+            margin-left: 1.5rem; 
+             margin-top: 1.5rem;
+}
